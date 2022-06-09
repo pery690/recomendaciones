@@ -330,7 +330,7 @@ form input, form select{
 .container{
 	justify-content: center;
 	display: grid;
-	grid-template-columns: auto auto;
+	grid-template-columns: auto;
 	grid-gap: 3em;
 }
 
